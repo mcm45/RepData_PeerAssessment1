@@ -1,0 +1,5 @@
+GRADING-NOTES
+
+To view code with plots and output: PA1_template.md
+SHA-1 is for this commit
+plots are also in figure folder
